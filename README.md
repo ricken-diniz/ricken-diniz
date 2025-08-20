@@ -1,36 +1,47 @@
-# Ricken Diniz
-<div style="display: inline_block" align="left"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
-
-<p align="left">
-  🐍 <strong>Skills:</strong> Python, C++
+<p align="center">
+  <img src="URL_DO_SEU_BANNER_OU_GIF" alt="Banner do Perfil">
 </p>
 
-<p align="left">
-  📘 <strong>Currently learning:</strong> Scikit-learn and Java
+<h1 align="center">Olá, eu sou [Seu Nome]! 👋</h1>
+
+<p align="center">
+  <b>Sou um [Sua Profissão] de Campina Grande - PB, apaixonado por [Sua Paixão 1] e [Sua Paixão 2].</b><br>
+  Atualmente, estou focado em aprimorar minhas habilidades em [Tecnologia Atual].<br>
+  Estou sempre em busca de projetos desafiadores e de oportunidades para aprender algo novo!
 </p>
 
-## 🌐 Contato
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Savio%20Cartaxo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/savio-cartaxo/)
+### 💻 Meu Arsenal Tecnológico
 
-[![Email](https://img.shields.io/badge/Gmail-Sávio%20Cartaxo-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=savio.ferreira.beltrao.cartaxo@ccc.ufcg.edu.br)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</p>
 
-[![Currículo](https://img.shields.io/badge/📄%20Curr%C3%ADculo-PDF-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://1drv.ms/b/c/df5f01686a878af3/ER1qNFQyF3dOvuGF4A4dBcwBoSBhihL-k2HPwtfpTVPeoA?e=hCrapc)
+---
 
+### 📊 Minhas Estatísticas no GitHub
 
-
-# My Status
-
-<div align="left">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCartaxo&layout=compact&langs_count=6&theme=dracula"
-      height="180px"
-    />
+<p align="center">
+  <a href="https://github.com/seu-usuario">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</div>
+</p>
+
+---
+
+### 📫 Como Me Encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu-email@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  </p>
