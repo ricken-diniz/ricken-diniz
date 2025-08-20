@@ -75,7 +75,7 @@
 
 ### 🎵 O que estou ouvindo agora
 
-[![Spotify Card](https://spotify-github-profile.vercel.app/api/view?uid=0rkr1oy3z3npsihrlgsq74fcs-SPOTIFY&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1db954&bar_color_cover=false)](https://open.spotify.com/user/0rkr1oy3z3npsihrlgsq74fcs-SPOTIFY)
+[![Spotify Card](https://spotify-github-profile.vercel.app/api/view?uid=0rkr1oy3z3npsihrlgsq74fcs&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1db954&bar_color_cover=false)](https://open.spotify.com/user/0rkr1oy3z3npsihrlgsq74fcs)
 
 ---
 
