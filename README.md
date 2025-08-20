@@ -65,7 +65,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🤝 Projeto de Pesquisa e Desenvolvimento - REVAI</h3>
-      <p>Projeto pelo REVAI @ UFCG que busca desenvolver um componete de processamento de imagens com redes neurais para a empresa PactoMais.</p>
+      <p>Projeto pelo REVAI @ UFCG que desenvolve software de processamento de imagens com redes neurais para a empresa PactoMais.</p>
 <!--       <a href="LINK-PARA-O-PROJETO-4"><strong>Ver Repositório &rarr;</strong></a> -->
     </td>
   </tr>
