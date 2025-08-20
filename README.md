@@ -1,47 +1,84 @@
-<p align="center">
-  <img src="URL_DO_SEU_BANNER_OU_GIF" alt="Banner do Perfil">
-</p>
-
-<h1 align="center">Olá, eu sou [Seu Nome]! 👋</h1>
-
-<p align="center">
-  <b>Sou um [Sua Profissão] de Campina Grande - PB, apaixonado por [Sua Paixão 1] e [Sua Paixão 2].</b><br>
-  Atualmente, estou focado em aprimorar minhas habilidades em [Tecnologia Atual].<br>
-  Estou sempre em busca de projetos desafiadores e de oportunidades para aprender algo novo!
-</p>
-
----
-
-### 💻 Meu Arsenal Tecnológico
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-</p>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
   </a>
-</p>
-
----
-
-### 📫 Como Me Encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <h1>Olá, Mundo! Eu sou [SEU NOME]</h1>
+  <p>
+    <strong>Desenvolvedor Full-Stack | Entusiasta de Tecnologia | Apaixonado por Open Source</strong>
   </p>
+  <p>
+    <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://SEU-SITE.com/"><img src="https://img.shields.io/badge/Website-4B0082?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  </p>
+</div>
+
+---
+
+### 📊 Estatísticas e Atividades no GitHub
+
+<div align="center">
+  <a href="https://github.com/SEU-USUARIO">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake">
+</div>
+
+---
+
+### 💻 Tecnologias e Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,java,docker,kubernetes,gcp,aws,git,figma,vscode,postman&perline=5" />
+  </a>
+</p>
+
+---
+
+### 🌱 Meus Projetos Atuais
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Projeto Principal 1: [Nome do Projeto]</h3>
+      <p>Uma breve descrição do seu projeto. O que ele faz, qual tecnologia utiliza e qual problema resolve.</p>
+      <a href="LINK-PARA-O-PROJETO-1"><strong>Ver Repositório &rarr;</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Projeto Principal 2: [Nome do Projeto]</h3>
+      <p>Uma breve descrição do seu projeto. O que ele faz, qual tecnologia utiliza e qual problema resolve.</p>
+      <a href="LINK-PARA-O-PROJETO-2"><strong>Ver Repositório &rarr;</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💡 Projeto Pessoal: [Nome do Projeto]</h3>
+      <p>Um projeto paralelo divertido que estou construindo para aprender algo novo ou por pura diversão.</p>
+      <a href="LINK-PARA-O-PROJETO-3"><strong>Ver Repositório &rarr;</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Contribuição Open Source: [Nome do Projeto]</h3>
+      <p>Orgulhoso de contribuir para este projeto incrível. Minhas contribuições focaram em...</p>
+      <a href="LINK-PARA-O-PROJETO-4"><strong>Ver Repositório &rarr;</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎵 O que estou ouvindo agora
+
+[![Spotify Card](https://spotify-github-profile.vercel.app/api/view?uid=SEU-USUARIO-SPOTIFY&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1db954&bar_color_cover=false)](https://open.spotify.com/user/SEU-USUARIO-SPOTIFY)
+
+---
+
+<div align="center">
+  <p>Feito com ❤️ e muito ☕</p>
+</div>
