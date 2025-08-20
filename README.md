@@ -47,14 +47,14 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Projeto Principal 1: [Nome do Projeto]</h3>
-      <p>Uma breve descrição do seu projeto. O que ele faz, qual tecnologia utiliza e qual problema resolve.</p>
-      <a href="LINK-PARA-O-PROJETO-1"><strong>Ver Repositório &rarr;</strong></a>
+      <h3>🚀 Proof of Concept - Vozia</h3>
+      <p>Agente de inteligência artificial para buscas de hospedagens e passagens aéreas a partir de comandos de voz.</p>
+      <a href="https://github.com/ricken-diniz/vozia"><strong>Ver Repositório &rarr;</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔧 Projeto Principal 2: [Nome do Projeto]</h3>
-      <p>Uma breve descrição do seu projeto. O que ele faz, qual tecnologia utiliza e qual problema resolve.</p>
-      <a href="LINK-PARA-O-PROJETO-2"><strong>Ver Repositório &rarr;</strong></a>
+      <h3>🔧 Minimun Viable Product - Nordeste Bot</h3>
+      <p>Conteinarização em Docker para a integração e conexão de um Agente com argumentação aumentada (RAG) a um chatbot de WhatsApp.</p>
+      <a href=""><strong>... &rarr;</strong></a>
     </td>
   </tr>
   <tr>
