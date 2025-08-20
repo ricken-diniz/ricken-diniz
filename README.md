@@ -1,15 +1,15 @@
 <div align="center">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/ricken-diniz">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
   </a>
-  <h1>Olá, Mundo! Eu sou [SEU NOME]</h1>
+  <h1>Olá, Mundo! Eu sou Ricken Diniz</h1>
   <p>
-    <strong>Desenvolvedor Full-Stack | Entusiasta de Tecnologia | Apaixonado por Open Source</strong>
+    <strong>Desenvolvedor Full-Stack | Entusiasta de Tecnologia | Apaixonado por Inteligência Artificial</strong>
   </p>
   <p>
-    <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:dinizrickenn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://SEU-SITE.com/"><img src="https://img.shields.io/badge/Website-4B0082?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<!--     <a href="https://SEU-SITE.com/"><img src="https://img.shields.io/badge/Website-4B0082?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
   </p>
 </div>
 
@@ -18,13 +18,13 @@
 ### 📊 Estatísticas e Atividades no GitHub
 
 <div align="center">
-  <a href="https://github.com/SEU-USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/ricken-diniz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricken-diniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricken-diniz&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricken-diniz&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 <div align="center" style="margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake">
@@ -75,7 +75,7 @@
 
 ### 🎵 O que estou ouvindo agora
 
-[![Spotify Card](https://spotify-github-profile.vercel.app/api/view?uid=SEU-USUARIO-SPOTIFY&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1db954&bar_color_cover=false)](https://open.spotify.com/user/SEU-USUARIO-SPOTIFY)
+[![Spotify Card](https://spotify-github-profile.vercel.app/api/view?uid=ricken-diniz-SPOTIFY&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=1db954&bar_color_cover=false)](https://open.spotify.com/user/ricken-diniz-SPOTIFY)
 
 ---
 
