@@ -4,7 +4,7 @@
   </a>
   <h1>Olá, Mundo! Eu sou Ricken Diniz</h1>
   <p>
-    <strong>Desenvolvedor Full-Stack | Entusiasta de Tecnologia | Apaixonado por Inteligência Artificial</strong>
+    <strong>Desenvolvedor Backend | Graduando em Ciências da Computação | Apaixonado por Inteligência Artificial</strong>
   </p>
   <p>
     <a href="mailto:dinizrickenn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
