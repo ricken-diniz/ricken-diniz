@@ -53,19 +53,19 @@
     </td>
     <td width="50%" valign="top">
       <h3>🔧 Minimun Viable Product - Nordeste Bot</h3>
-      <p>Conteinarização em Docker para a integração e conexão de um Agente com argumentação aumentada (RAG) a um chatbot de WhatsApp.</p>
-      <a href=""><strong>... &rarr;</strong></a>
+      <p>Conteinarização em Docker para a integração e conexão de um Agente com argumentação aumentada (RAG) ao WhatsApp.</p>
+<!--       <a href=""><strong>... &rarr;</strong></a> -->
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💡 Projeto Pessoal: [Nome do Projeto]</h3>
-      <p>Um projeto paralelo divertido que estou construindo para aprender algo novo ou por pura diversão.</p>
+      <h3>💡 Projeto de Pesquisa - Explanaible AI</h3>
+      <p>Projeto pela VIRTUS @ UFCG que propõe um novo modelo de XAI a partir da descida do gradiente.</p>
       <a href="LINK-PARA-O-PROJETO-3"><strong>Ver Repositório &rarr;</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤝 Contribuição Open Source: [Nome do Projeto]</h3>
-      <p>Orgulhoso de contribuir para este projeto incrível. Minhas contribuições focaram em...</p>
+      <h3>🤝 Projeto de Pesquisa e Desenvolvimento - REVAI</h3>
+      <p>Projeto pelo REVAI @ UFCG que busca desenvolver um componete de processamento de imagens com redes neurais para a empresa PactoMais.</p>
       <a href="LINK-PARA-O-PROJETO-4"><strong>Ver Repositório &rarr;</strong></a>
     </td>
   </tr>
