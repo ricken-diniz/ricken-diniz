@@ -52,9 +52,9 @@
       <a href="https://github.com/ricken-diniz/vozia"><strong>Ver Repositório &rarr;</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔧 Minimun Viable Product - Nordeste Bot</h3>
-      <p>Conteinarização em Docker para a integração e conexão de um Agente com argumentação aumentada (RAG) ao WhatsApp.</p>
-<!--       <a href=""><strong>... &rarr;</strong></a> -->
+      <h3>🛒 Sistema Gerenciador de Compras</h3>
+      <p>Processamento multimodal a partir de modelos de linguagem, em conjunto de fluxo de agentes com LangGraph.</p>
+      <a href="https://github.com/VirtusLRR/SGC"><strong>Ver Repositório &rarr;</strong></a>
     </td>
   </tr>
   <tr>
