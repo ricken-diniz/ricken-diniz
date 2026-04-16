@@ -59,8 +59,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💡 Projeto de Pesquisa - Explanaible AI</h3>
-      <p>Projeto pela VIRTUS @ UFCG que propõe um novo modelo de XAI a partir da descida do gradiente.</p>
+      <h3>💡 Projeto de Pesquisa - FCS</h3>
+      <p>Projeto pela VIRTUS @ UFCG que estuda aplicações de algoritmos XAI na proteção de redes baseadas em Aprendizado Federado.</p>
 <!--       <a href="LINK-PARA-O-PROJETO-3"><strong>Ver Repositório &rarr;</strong></a> -->
     </td>
     <td width="50%" valign="top">
